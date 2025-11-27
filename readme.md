@@ -22,7 +22,38 @@
     - apro l'app
     - mi loggo dentro amazon
 
-- cerco la lampada    
+- cerco la lampada
+    - controllo che abbia la consegna prime per domani
+        - ? SE ha la consegna prime
+            - la metto nel carrello
+            - premo acquista ora
+            - compilo form pagamento e spedizone
+            - attendo la consegna (fine)
+    - : ALTRIMENTI
+        - cerco la penna stilografica
+            - controllo che abbia la consegna prime per domani
+                - ? SE non ha la consesgna prima per domani
+                    - cerco un buon libro che sia in cosegna domani
+                    - la metto nel carrello
+                    - premo acquista ora
+                    - compilo form pagamento e spedizone
+                    - attendo la consegna (fine)
+                - : ALTRIMENTI
+                    - controllo che sia dentro il budget
+                        - ? SE sono dentro il budget
+                            - la metto nel carrello
+                            - premo acquista ora
+                            - compilo form pagamento e spedizone
+                            - attendo la consegna (fine)
+                        - : ALTRIMENTI
+                            - cerco un buon libro che sia in cosegna domani
+                            - la metto nel carrello
+                            - premo acquista ora
+                            - compilo form pagamento e spedizone
+                            - attendo la consegna (fine)
+
+
+    
 
 
  
