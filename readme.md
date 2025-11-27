@@ -7,11 +7,13 @@
 - : ALTRIMENTI 
     - prendo lo smartphone
 
-- penso a cosa regalare a Silvia   
+- penso a cosa regalare a Silvia per il compleanno di domani
     - mi ricordo cosa le piace
         - una lampada da tavolo particolare
         - una bella penna stilografica
         - un buon libro che é sempre un classico
+
+- decido il mio budget (20€)
 
 - ? SE sono al pc
     - apro chorme
@@ -39,8 +41,8 @@
                     - compilo form pagamento e spedizone
                     - attendo la consegna (fine)
                 - : ALTRIMENTI
-                    - controllo che sia dentro il budget
-                        - ? SE sono dentro il budget
+                    - controllo che sia dentro il budget (20€)
+                        - ? SE sono dentro il budget (20€)
                             - la metto nel carrello
                             - premo acquista ora
                             - compilo form pagamento e spedizone
